@@ -1,6 +1,6 @@
 # Create a function called main.
 def mein():
 # Return the value str type.
-    return "tugribusuinda"
+    return "welcome"
 x = mein()
 print(x)
