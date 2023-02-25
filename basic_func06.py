@@ -1,6 +1,6 @@
 # Create a function called main.
-def mein():
+def main():
 # Return the value str type.
     return "welcome"
-x = mein()
+x = main()
 print(x)
